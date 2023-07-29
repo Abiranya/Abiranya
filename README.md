@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abiranya
 - 👀 I’m interested in web development, software designing and open source project !
-- 🌱 I’m currently learning Reacy JS and improving my skills in python.
+- 🌱 I’m currently learning React JS and improving my skills in python.
 - 💞️ I’m looking to collaborate on on projects that involve front-end development as well as back end development.
 - 📫 How to reach me :
 - Email : abiranyak14@gmail.com
